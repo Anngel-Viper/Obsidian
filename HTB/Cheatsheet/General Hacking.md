@@ -1,0 +1,2 @@
+- gobuster is better for the subdomain enumeration and the virtual host enumeration because it handles the dns resolution exactly how it is handled in it. 
+- 

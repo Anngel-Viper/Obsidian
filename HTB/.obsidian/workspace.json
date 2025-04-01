@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "965e579506fdb3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e91d34415ba5f9ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb0a2c985d564987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheatsheet/LINUX PRIVILEGE ESCALATION.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LINUX PRIVILEGE ESCALATION"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afe01aaa06633a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "678fb21c80a26288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f636258468a1a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3878fbae457d332",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7fa38a7a2c631ff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf4e84723debcf50",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b2c28633573b575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0542d5be8598c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sightless.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sightless"
+            }
+          },
+          {
+            "id": "7ecf889cc8468c52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sightless.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sightless"
+            }
+          },
+          {
+            "id": "196f3b74faa29dbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e57fe045d4908197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sightless.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sightless"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb0a2c985d564987",
+  "lastOpenFiles": [
+    "Topics/Miscellaneos.md",
+    "Topics/Bash Programming.md",
+    "Untitled.canvas",
+    "CollegeProjects/UAV.md",
+    "Reverse Engineering Studies/LiveOverflow.md",
+    "CollegeProjects",
+    "Reverse Engineering Studies/Cheatsheet.md",
+    "Reverse Engineering Studies/Challenges/Untitled.md",
+    "Reverse Engineering Studies/Challenges",
+    "Reverse Engineering Studies/Challenges and How I solved them.md",
+    "Cheatsheet/LINUX PRIVILEGE ESCALATION.md",
+    "Reverse Engineering Studies",
+    "Cheatsheet/General Hacking.md",
+    "HTB/HTB Machines/INSANE/MIST.md",
+    "HTB/HTB Machines/Hard/Blazorized.md",
+    "HTB/HTB Machines/INSANE",
+    "Wireshark/Wireshark-Cheat-Sheet-v1.pdf",
+    "HTB/HTB Machines/Hard",
+    "Youtube/Scapy David Bombal",
+    "Wireshark/CheatSheet.md",
+    "Youtube",
+    "HTB/Academy/Wordpress Hacking.md",
+    "Wireshark",
+    "Cheatsheet",
+    "Tools Database/Enumeration.md",
+    "HTB/HTB Machines/Escape Two.md",
+    "HTB/Challenges/Brevi Moduli.md",
+    "Metasploit/Usage.md",
+    "Topics/Cryptography/RSA Cryptosystem.md",
+    "Images/WhatsApp Image 2025-01-11 at 3.59.33 PM.jpeg",
+    "HTB/HTB Machines/Sightless.md",
+    "Images/WhatsApp Image 2025-01-11 at 3.59.33 PM(1).jpeg",
+    "Pasted image 20250111155959.png",
+    "Images/WhatsApp Image 2025-01-11 at 3.59.34 PM.jpeg",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

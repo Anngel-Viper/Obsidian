@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "40e97dcf37e41914",
+    "type": "split",
+    "children": [
+      {
+        "id": "df49acb0993c2d27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60298b3062503521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web App/HTB{ Information Gathering - Web Edition }.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTB{ Information Gathering - Web Edition }"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "713b62474014fab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e415f8f04fb25419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acfe79e98abb44a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fda405c0a2bbf0fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9e5286c45029f0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "471162d984ce552a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc25067f6aa2180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825e1b6d3ac7c788",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web App/HTB{ Information Gathering - Web Edition }.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HTB{ Information Gathering - Web Edition }"
+            }
+          },
+          {
+            "id": "25fbb1575b5f9901",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web App/HTB{ Information Gathering - Web Edition }.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HTB{ Information Gathering - Web Edition }"
+            }
+          },
+          {
+            "id": "51a913a2cc8cc21b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a24d4cd64d31e4e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web App/HTB{ Information Gathering - Web Edition }.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HTB{ Information Gathering - Web Edition }"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60298b3062503521",
+  "lastOpenFiles": [
+    "Web App",
+    "Welcome.md",
+    "Web App/HTB{ Information Gathering - Web Edition }.md"
+  ]
+}
