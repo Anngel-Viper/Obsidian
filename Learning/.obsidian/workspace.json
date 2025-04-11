@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PortSwigger Academy/Server Side Vulnerabilities.md",
+                "file": "PortSwigger Academy/SQL Injection (SQLi).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server Side Vulnerabilities"
+              "title": "SQL Injection (SQLi)"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "4f3658531a645fc5",
   "lastOpenFiles": [
-    "PortSwigger Academy/Path Traversal.md",
     "PortSwigger Academy/Server Side Vulnerabilities.md",
+    "PortSwigger Academy/Websocket Vulnerabilites.md",
+    "PortSwigger Academy/SQL Injection (SQLi).md",
+    "PortSwigger Academy/Path Traversal.md",
+    "Reverse Engineering/Basics.md",
+    "Reverse Engineering",
     "Privilege Escalation/Linux Privilege Escalation  - HTB.md",
     "PortSwigger Academy",
     "Web App/HTB{ Information Gathering - Web Edition }.md",
