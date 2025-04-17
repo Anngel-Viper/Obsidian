@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df49acb0993c2d27",
+        "id": "47f20082425ac87a",
         "type": "tabs",
         "children": [
           {
-            "id": "4f3658531a645fc5",
+            "id": "d094a48f4829ac10",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,13 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f3658531a645fc5",
+  "active": "d094a48f4829ac10",
   "lastOpenFiles": [
-    "PortSwigger Academy/Server Side Vulnerabilities.md",
     "PortSwigger Academy/Websocket Vulnerabilites.md",
-    "PortSwigger Academy/SQL Injection (SQLi).md",
-    "PortSwigger Academy/Path Traversal.md",
+    "Reverse Engineering/LiveOverflow/Episode 0 - 10.md",
     "Reverse Engineering/Basics.md",
+    "Reverse Engineering/LiveOverflow",
+    "Reverse Engineering/HTB Tracks/3. RAuth.md",
+    "Reverse Engineering/HTB Tracks/0. Key Tools.md",
+    "Reverse Engineering/HTB Tracks/1. Simple Encrypter.md",
+    "Reverse Engineering/HTB Tracks/2. SnakeCode.md",
+    "Reverse Engineering/HTB Tracks",
+    "PortSwigger Academy/SQL Injection (SQLi).md",
+    "PortSwigger Academy/Server Side Vulnerabilities.md",
+    "PortSwigger Academy/Path Traversal.md",
     "Reverse Engineering",
     "Privilege Escalation/Linux Privilege Escalation  - HTB.md",
     "PortSwigger Academy",
