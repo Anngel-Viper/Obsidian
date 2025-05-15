@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "a2f837c99b6e71f0",
+    "id": "6f2c735bcaf8a1eb",
     "type": "split",
     "children": [
       {
-        "id": "b8d35729c304bff0",
+        "id": "b9e342df8c317019",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1fc31d3b3a61f3",
+            "id": "9c5cbf01c0280707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MeSelf/Internship Companies.md",
+                "file": "PwnTillDawn/All Hosts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internship Companies"
+              "title": "All Hosts"
+            }
+          },
+          {
+            "id": "13ad964dcfe538f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PwnTillDawn/All Hosts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All Hosts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3deea2ecc514dcb0",
+    "id": "ccf770569cde517b",
     "type": "split",
     "children": [
       {
-        "id": "c73b2c38493e083c",
+        "id": "9a4b26d325287d06",
         "type": "tabs",
         "children": [
           {
-            "id": "405d9a9dee654e77",
+            "id": "3cbef78dad569d64",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "1817f1d14a8de57b",
+            "id": "a1e9eb83734b207f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "1b30cd07693bc4e7",
+            "id": "a3c14ed886c60d13",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "a1f929308cd7355a",
+    "id": "cb6e82d24346add4",
     "type": "split",
     "children": [
       {
-        "id": "d8e7b6e241f8e59a",
+        "id": "ea35901347b7e809",
         "type": "tabs",
         "children": [
           {
-            "id": "8e85b41cd3baee23",
+            "id": "f882eefe609c0cf6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UAV/Introduction.md",
+                "file": "PwnTillDawn/All Hosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for All Hosts"
             }
           },
           {
-            "id": "1aeb2d1c437e4f39",
+            "id": "283362c06e550b51",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UAV/Introduction.md",
+                "file": "PwnTillDawn/All Hosts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from All Hosts"
             }
           },
           {
-            "id": "708ab28769666630",
+            "id": "0da6295657456929",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +152,18 @@
             }
           },
           {
-            "id": "28271de73e162a24",
+            "id": "3a585460ff09d0ba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "UAV/Introduction.md",
+                "file": "PwnTillDawn/All Hosts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of All Hosts"
             }
           }
         ]
@@ -168,14 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf1fc31d3b3a61f3",
+  "active": "13ad964dcfe538f9",
   "lastOpenFiles": [
-    "MeSelf/Break Things Down..md",
-    "MeSelf/Internship Companies.md",
-    "UAV/Defining the Architecture of the UAV.md",
-    "UAV/Introduction.md",
-    "Untitled",
+    "PwnTillDawn/Cache/10.150.150.15.md",
+    "PwnTillDawn/All Hosts.md",
+    "PwnTillDawn/Cache",
     "Welcome.md",
-    "UAV"
+    "PwnTillDawn"
   ]
 }
